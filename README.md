@@ -1,2 +1,3 @@
-# Html5-Canvas-
-Canvas的笔记。
+# Canvas 学习之路
+
+一： 先写一个hello World
