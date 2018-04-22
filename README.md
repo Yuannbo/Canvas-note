@@ -9,3 +9,9 @@ https://segmentfault.com/a/1190000014420646
 https://segmentfault.com/a/1190000014443269
 
 https://segmentfault.com/a/1190000014476785
+
+三： 然后是Canvas文本
+
+https://segmentfault.com/a/1190000014531844
+
+这里实现了一个Text Arranger。
