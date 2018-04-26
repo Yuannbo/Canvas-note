@@ -15,3 +15,6 @@ https://segmentfault.com/a/1190000014476785
 https://segmentfault.com/a/1190000014531844
 
 这里实现了一个Text Arranger。
+
+四：Canvas 的图像
+https://segmentfault.com/a/1190000014606710
